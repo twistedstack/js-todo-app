@@ -1,2 +1,4 @@
-# twistedstack-todo-light-js-app
-Simple todo app using JavaScript and local storage. 
+## Simple Todo App
+Simple todo app using Javascript, CSS and Local Storage
+
+![Todo App](img/screenshot.png)
